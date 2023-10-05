@@ -3,7 +3,6 @@
 - Embedded fitness is a function that could help make a workout routine
 - Embedded board: STM32F4D
 - Creator: Wentai Liu
-- Netid: wl2446
 - Video demo: https://drive.google.com/file/d/1MOkxBOwM9-z1aMGxkAyXoo6T-zQzYxMh/view?usp=sharing
 
 ## Program Overview
